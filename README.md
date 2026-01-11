@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 About me
-I’m a graduate student focused on building **scalable software systems** and **applied AI solutions**. Before starting my MS, I worked at a telecommunications startup where I contributed to backend services across **payments**, **messaging/notifications**, and **AI-assisted call workflows**—modernizing legacy systems and integrating **LLMs** and **speech-to-text** components.
+I’m a graduate student focused on building **scalable software systems** and **applied AI solutions**. Before starting my MS, I worked at a telecommunications startup where I contributed to backend services across **payments**, **messaging/notifications**, and **AI-assisted call workflows** and modernizing legacy systems and integrating **LLMs** and **speech-to-text** components.
 
 ---
 
