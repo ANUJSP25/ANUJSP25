@@ -15,7 +15,7 @@ I’m a graduate student focused on building **scalable software systems** and *
 ---
 
 ## 🔬 Current work (IU)
-**Natural Language Processing Lab** *(Volunteer Research Project)* | Sep 2025 – Present  
+**Natural Language Processing Lab** *(Volunteer Research Project)*
 - 🧠 Annotating and analyzing Twitter data to support **training and evaluation of drug-related NLP classifiers**  
 - 🧩 Curating and normalizing drug terminology and slang to expand a **NIDA-based knowledge graph** for NLP pipelines
 
