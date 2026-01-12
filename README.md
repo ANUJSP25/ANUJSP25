@@ -4,8 +4,8 @@
 💻 **Software Engineer** (Backend + Applied AI/NLP) • Python, Flask, JavaScript  
 🔎 **Seeking Summer 2026 internships** (SDE / AI-ML Engineering)
 
-🧩 Practice & Profiles:  
-[LeetCode](https://leetcode.com/anuj_prakash/) · [HackerRank](https://www.hackerrank.com/AnujPrakash)
+🧩 Practice & Profiles:
+[LinkedIn](https://www.linkedin.com/in/anuj-prakash-48ba881b9/) · [LeetCode](https://leetcode.com/anuj_prakash/) · [HackerRank](https://www.hackerrank.com/AnujPrakash)
 
 ---
 
